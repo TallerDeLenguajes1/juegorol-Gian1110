@@ -1,0 +1,13 @@
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\bin\Debug\netcoreapp3.1\juego de rol.exe
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\bin\Debug\netcoreapp3.1\juego de rol.deps.json
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\bin\Debug\netcoreapp3.1\juego de rol.runtimeconfig.json
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\bin\Debug\netcoreapp3.1\juego de rol.runtimeconfig.dev.json
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\bin\Debug\netcoreapp3.1\juego de rol.dll
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\bin\Debug\netcoreapp3.1\juego de rol.pdb
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\obj\Debug\netcoreapp3.1\juego de rol.csprojAssemblyReference.cache
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\obj\Debug\netcoreapp3.1\juego de rol.AssemblyInfoInputs.cache
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\obj\Debug\netcoreapp3.1\juego de rol.AssemblyInfo.cs
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\obj\Debug\netcoreapp3.1\juego de rol.csproj.CoreCompileInputs.cache
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\obj\Debug\netcoreapp3.1\juego de rol.dll
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\obj\Debug\netcoreapp3.1\juego de rol.pdb
+C:\Users\gianluca\Documents\talle1\juego de rol\juego de rol\obj\Debug\netcoreapp3.1\juego de rol.genruntimeconfig.cache
